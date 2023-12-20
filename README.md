@@ -27,7 +27,7 @@ git clone https://github.com/your-username/To-Do-List.git
 ```
    python Project-Kelompok-2.py
 ```
-4. Start adding your financial transactions and enjoy the benefits of organized and transparent financial management.
+4. Start adding your task and enjoy all features in this project.
 
 ## 💻 Technologies Used
 - Python
