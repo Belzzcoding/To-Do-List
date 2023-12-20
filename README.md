@@ -20,12 +20,12 @@ To get started with the To-Do List application, follow these simple steps:
 
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/your-username/rupiyeah.git
+git clone https://github.com/your-username/To-Do-List.git
 ```
 2. Open the project in your preferred Python environment.
 3. Run the application from the command line using Python.
 ```
-   python rupiyeah.py
+   python Project-Kelompok-2.py
 ```
 4. Start adding your financial transactions and enjoy the benefits of organized and transparent financial management.
 
